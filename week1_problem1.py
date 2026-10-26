@@ -1,0 +1,7 @@
+print("Name: Faust ")
+print("Address: 660 W. 12th St. ")
+print("City: Arlington")
+print("ZIP: 22202")
+print("State: VA")
+print("Telephone: 780-555-1234")
+print("College major: computer science")
